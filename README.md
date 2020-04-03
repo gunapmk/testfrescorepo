@@ -1,4 +1,6 @@
 # testfrescorepo
 
 
-This is the fresco git examples
+This is the fresco git example
+
+This is very good
